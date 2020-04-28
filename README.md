@@ -1,7 +1,7 @@
 # SI507 Final-Project: UX PROGRAM SEARCHER
 
 Description: 
-The porject aims at helping initial sttudents to determine the UX program to enter based on the school's surrounding and job market.
+The project aims at helping potential students to determine the UX program to enter based on the school's surrounding and job market.
 Users are able to find the level of degree the are looking for, and see the population, median age, median income, and unemployment rate of the city where the schools locate.
 
 Data Resource: 
