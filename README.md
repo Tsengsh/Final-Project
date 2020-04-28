@@ -15,3 +15,8 @@ The data used within this project are crawled and scraped from three websites, i
 - Information of Cities
     [HTML] https://www.bestplaces.net/find/
     [RECORDS] 1500(average cities for each state) *19 ( states with UX programs in the USA)
+    
+ Running the program:
+ - Download: Final_Project.py, final_flask.py, UX.sqlite, templates(file), static(file) in to the same directory.
+ - Final_Project.py: Run this file to retrieve data from data resources
+ - final_flask.py: Run this data to connect this file with squlite, and find developer's view of website to interact with.
